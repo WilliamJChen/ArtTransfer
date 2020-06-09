@@ -1,2 +1,2 @@
 # ArtTransfer
-using tensorflow to create an art transfer application. 
+using tensorflow to create an art style transfer application. 
